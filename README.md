@@ -5,13 +5,6 @@
 4. [Results](#Results)
 5. [Licensing, Author and Acknowledgement](#Licensing, Author and Acknowledgement)
 
-# 1. Project Introduction <a name="ProjectIntroduction"></a>
-1. [Project Introduction](#ProjectIntroduction)
-2. [Installations](#Installations)
-3. [File Descriptions](#FileDescriptions)
-4. [Results](#Results)
-5. [Licensing, Author and Acknowledgement](#Licensing,AuthorandAcknowledgement)
-
 ## 1. Project Introduction <a name="ProjectIntroduction"></a>
 This project is an attempt to explore some different aspects of a chess game
 to understand their importance and impact on the outcome of a game. In this
@@ -26,7 +19,6 @@ dominating each of the top 10 openings?
 - How well can we predict an outcome of a game?
 
 ## 2. Installations <a name="Installations"></a>
->>>>>>> 435c49093425517892e90e07c929c15ae089d651
 This project uses no other external libraries which doesn't come with basic
 installation of Anaconda distribution of python. The python 3 which comes with
 basic installation of Anaconda distribution will be sufficient to run the codes.
