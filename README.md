@@ -32,7 +32,7 @@ project.
 without any hassles.
 - A csv file of the dataset.
 
-# 4. Results <a name="Results"></a>
+## 4. Results <a name="Results"></a>
 The results of the analysis regarding above questions are discussed here.
 
 ## 5. Licensing, Author and Acknowledgement <a name="Licensing,AuthorandAcknowledgement"></a>
