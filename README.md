@@ -1,9 +1,9 @@
 ## Table of Contents
-1. [Project Introduction](#Project Introduction)
+1. [Project Introduction](#ProjectIntroduction)
 2. [Installations](#Installations)
-3. [File Descriptions](#File Descriptions)
+3. [File Descriptions](#FileDescriptions)
 4. [Results](#Results)
-5. [Licensing, Author and Acknowledgement](#Licensing, Author and Acknowledgement)
+5. [Licensing, Author and Acknowledgement](#Licensing,AuthorandAcknowledgement)
 
 ## 1. Project Introduction <a name="ProjectIntroduction"></a>
 This project is an attempt to explore some different aspects of a chess game
