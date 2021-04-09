@@ -6,9 +6,9 @@
 5. [Licensing, Author and Acknowledgement](#Licensing,AuthorandAcknowledgement)
 
 ## 1. Project Introduction <a name="ProjectIntroduction"></a>
-This project is an attempt to explore some different aspects of a chess game
-to understand their importance and impact on the outcome of a game. In this
-project an attempt has been made to  answer the following questions:
+The aim of this project is to explore some different aspects of the chess game
+to understand their importance and impact on the possible outcomes of a game.
+In this project an attempt has been made to answer the following questions:
 - What are the major ways of obtaining each outcome of a game?
 - What are the top 10 most used increment codes and which outcome of the game
 is dominating each of the top 10 increment codes?
@@ -33,7 +33,7 @@ without any hassles.
 - A csv file of the dataset.
 
 ## 4. Results <a name="Results"></a>
-The results of the analysis regarding above questions are discussed here.
+The results of the analysis regarding above questions are discussed [here](https://achyutk23.medium.com/how-to-predict-an-outcome-of-a-chess-game-c4f452362575).
 
 ## 5. Licensing, Author and Acknowledgement <a name="Licensing,AuthorandAcknowledgement"></a>
 Credit has to be given to Mitchell J who has created the dataset and to Kaggle.
