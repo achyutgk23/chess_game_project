@@ -78,15 +78,4 @@ def show_scores(y_train, preds):
     print('recall:', recall_score(y_train, preds, average='weighted'))
     print('confusion_matrix:')
     print(confusion_matrix(y_train, preds))
-
-
-
-
-
-
-
-
-
-
-    
     print(set(y_train) - set(preds))
